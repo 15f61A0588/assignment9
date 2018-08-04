@@ -1,0 +1,82 @@
+{
+  "profiles":[
+    {
+      "id":1,
+      "name":"Pavi",
+      "label":"DBA",
+      "company":"Infosys",
+      "image":"img/profile.png"
+
+    },
+    {
+      "id":2,
+      "name":"J V",
+      "label":"Front end",
+      "company":"Polaris",
+      "image":"img/profile.png"
+
+    },
+    {
+      "id":3,
+      "name":"Pavithra",
+      "label":"Tech-lead",
+      "company":"CA",
+      "image":"img/profile.png"
+
+    }
+  ],
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+},
+  "education":[
+    {
+          "degree":"B-tech",
+          "institute":"SIETK",
+          "data":["2014-18","79%"]
+    },
+    {
+          "degree":"Intermediate/Diploma",
+          "institute":"Sai Jyothi Jr College",
+          "data":["2013-15","93%"]
+    },
+    {
+          "degree":"School",
+          "institute":"SSVM School",
+          "data":["2013","95"]
+    }
+
+  ],
+    "achievements":[
+      {
+          "name":"certified in <strong> C </strong> by <strong> IIT Bombay </strong>"
+        },
+        {  "name":"Achieved<strong> 1<sup>st</sup></strong> in<q> PPT </q>at VR Siddhartha"
+      }
+
+
+    ],
+    "technical":[
+      {
+        "name":"Pragramming languages",
+        "data":"[C,C++,Java]"
+      },
+      {
+        "name":"Data bases",
+        "data":"[MySql,Oracle]"
+      },
+      {
+        "name":"Web Technologies",
+        "data":"[HTML,Javascript,CSS]"
+      },
+      {
+        "name":"server-side Scripting",
+        "data":"[PHP]"
+      },
+      {
+        "name":"Android Studio",
+        "data":["tool"]
+      }
+
+    ]
+
+}
